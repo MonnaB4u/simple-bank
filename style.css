@@ -1,0 +1,36 @@
+body{
+    padding: 100PX;
+}
+.pass-area{
+
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 9px;
+    box-shadow: 5px 5px 10px gray ;
+
+}
+
+#trans-area{
+    display: none;
+}
+
+.status{
+    border-radius: 10px;
+    margin: 0px 15px;
+    padding:20px ;
+    color: white;
+    
+}
+
+.depo{
+    background-color: slateblue;
+  
+}
+
+.withd{
+    background-color: lightsalmon;
+}
+
+.balance{
+    background-color: orange;
+}
